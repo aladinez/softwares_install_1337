@@ -1,5 +1,5 @@
 # 1337bdm-goinfre
-this script does install brew, and  minikube in goinfre 😎
+this script installs brew, and  minikube in goinfre 😎
 
 
 COMMAND = `git clone https://github.com/aladinez/softwares_install_1337 ; bash softwares_install_1337/install.bash`
